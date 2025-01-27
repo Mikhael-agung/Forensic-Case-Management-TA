@@ -1,0 +1,65 @@
+Admin admin logged in.
+Admin accessed Activity Logs
+Admin accessed Manage Users
+KepalaPenyidik kepala1 logged in.
+Admin admin logged in.
+Admin admin logged in.
+Admin admin logged in.
+Admin accessed Reports and Statistics
+Admin performed data backup
+Admin admin logged in.
+Admin accessed Manage Users
+Admin accessed Activity Logs
+Admin accessed Reports and Statistics
+Admin logged out
+KepalaPenyidik kepala1 logged in.
+Kepala Penyidik accessed Create New Case
+Kepala Penyidik created new case: KS005
+Kepala Penyidik accessed Assign Investigator
+KepalaPenyidik kepala1 logged in.
+Kepala Penyidik accessed Assign Investigator
+Investigator penyidik3 assigned to case KS005
+Kepala Penyidik logged out
+KepalaPenyidik kepala1 logged in.
+Kepala Penyidik accessed Assign Investigator
+Admin admin logged in.
+Admin accessed Manage Users
+Admin accessed Activity Logs
+Admin accessed Reports and Statistics
+Admin performed data backup
+Admin logged out
+Penyidik penyidik1 logged in.
+Admin admin logged in.
+Admin accessed Manage Users
+Admin accessed Manage Users
+Admin admin logged in.
+Admin accessed Manage Users
+Admin accessed Manage Users
+Admin accessed Activity Logs
+Admin accessed Reports and Statistics
+Admin performed data backup
+Admin accessed Reports and Statistics
+Admin admin logged in.
+Admin accessed Manage Users
+Admin accessed Activity Logs
+Admin admin logged in.
+Admin accessed Manage Users
+Admin accessed Activity Logs
+Admin accessed Reports and Statistics
+Admin admin logged in.
+Admin accessed Manage Users
+Admin admin logged in.
+Admin accessed Manage Users
+Admin admin logged in.
+Admin accessed Manage Users
+Admin admin logged in.
+Admin accessed Manage Users
+Admin admin logged in.
+Admin accessed Manage Users
+Admin admin logged in.
+Admin accessed Manage Users
+Admin admin logged in.
+Admin accessed Manage Users
+Admin admin logged in.
+Admin accessed Manage Users
+Admin admin logged in.

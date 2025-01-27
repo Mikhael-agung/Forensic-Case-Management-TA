@@ -1,0 +1,5 @@
+KS001,Pemerkosaan,Cakruk,2025-01-20,OPEN,penyidik2
+KS002,Pencurian,Ngantru,2025-01-20,CLOSED,penyidik1
+KS003,Pelecehan seksual,Tulungagung kota,2025-01-23,CLOSED,penyidik1
+KS004,Pelecehan,Cakruk,2025-01-19,OPEN,
+KS005,Pelecehan,Ngantru,2025-01-20,OPEN,penyidik3
