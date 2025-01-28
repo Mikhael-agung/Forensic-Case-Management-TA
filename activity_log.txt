@@ -63,3 +63,11 @@ Admin accessed Manage Users
 Admin admin logged in.
 Admin accessed Manage Users
 Admin admin logged in.
+Admin admin logged in.
+Admin accessed Manage Users
+Admin accessed Activity Logs
+Admin accessed Reports and Statistics
+KepalaPenyidik kepala1 logged in.
+KepalaPenyidik kepala1 logged in.
+Kepala Penyidik accessed Create New Case
+Kepala Penyidik accessed Assign Investigator
