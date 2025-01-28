@@ -71,3 +71,7 @@ KepalaPenyidik kepala1 logged in.
 KepalaPenyidik kepala1 logged in.
 Kepala Penyidik accessed Create New Case
 Kepala Penyidik accessed Assign Investigator
+Penyidik penyidik1 logged in.
+KepalaPenyidik kepala1 logged in.
+Kepala Penyidik logged out
+Penyidik penyidik1 logged in.
